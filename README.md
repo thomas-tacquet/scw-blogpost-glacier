@@ -28,5 +28,6 @@ You can find documentations here :
 
 ## Contributing
 
+Nature of this project is to demonstrate how easy is to develop a project using serverless approach.
 
-
+Feel free to open issues or pull requests.
