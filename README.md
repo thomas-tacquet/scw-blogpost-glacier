@@ -1,5 +1,7 @@
 # Monitoring glaciers with Scaleway Serverless Functions
 
+Associated Scaleway blog post [link](https://blog.scaleway.com/how-to-collect-and-store-data-periodically-with-serverless-functions-2/)
+
 ## Instructions
 
 1. Install serverless framework : [Quick Start](https://github.com/scaleway/serverless-scaleway-functions#quick-start)
